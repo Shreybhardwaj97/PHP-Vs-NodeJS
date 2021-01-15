@@ -18,7 +18,11 @@ Despite the fact that PHP is a server-side scripting language, it can likewise b
 
 Facebook, Flickr, Wikipedia, Yahoo, and Tumblr are the names of some majorly used web portals that have been fabricated utilizing the PHP programming language.
 A quick intro with Node.js development
-NodeJS Development services in UK perfectionGeeks
+
+
+<a href="https://www.perfectiongeeks.com/" target="_blank">NodeJS Development services in UK perfectionGeeks</a>
+
+
 
 Created by Ryan Dahl, Node.js unveiled its first appearance over a decade back in May of 2009. With the presentation of Node.js, it got conceivable to make pure and complex JS applications that can work outside the internet browser platform.
 
@@ -129,7 +133,11 @@ This is so in light of the fact that NoSQL database plan theory opposes such ass
 
 Development Stacks
 
-Exchanging between various conditions and programming languages add to decreasing proficiency while composing the code. In addition, it very well may be maddening now and again.
+
+
+<a href="https://www.perfectiongeeks.com/" target="_blank">Exchanging between various conditions and programming languages add to decreasing proficiency while composing the code. In addition, it very well may be maddening now and again.</a>
+
+
 
 While composing back-end code in PHP, the developers regularly switch between various programming languages. This is because of the way that PHP is generally utilized as a piece of the LAMP (Linux, Apache HTTP Server, MySQL, and PHP) stack.
 
